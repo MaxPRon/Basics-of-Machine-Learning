@@ -1,4 +1,6 @@
-Implementations of various machine learning algorithms.
+# Basics of Machine Learning 
+
+Implementations of various machine learning algorithms. Currently it is mostly supervised learning but I might later extend it to unsupervised learning.
 
 
 A lot of the implementations are based on knowledge aquired from the following tutorials and sites:
